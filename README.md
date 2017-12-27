@@ -1,5 +1,6 @@
 # School_WEB_E-Commerce
 This Directory Contains A PHP site from Buffalo State College
+**NOTE:** Does not contain Vendor directory with composer installed dependencies (over 3000 files)  The purpose of posting this code is to show the use of MVC architecture, frameworks, composer, and ORM
 
 # CIS 427 E-COMMERCE SYSTEMS AND TECHNOLOGIES 
 
